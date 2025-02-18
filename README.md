@@ -1,5 +1,5 @@
 # pysamples
-Пример кода на Python
+Примеры моуго кода на Python
 ![photo_2024-07-23_12-19-28](https://github.com/user-attachments/assets/3940282f-164a-4094-847b-ea160855f529)
 ![photo_2024-07-17_15-20-51](https://github.com/user-attachments/assets/08aec857-3fc9-4ff1-82a8-d0e56901f62f)
 ![photo_2024-07-16_21-13-38](https://github.com/user-attachments/assets/f69977f8-dded-4abc-bbb0-e3e60c7f74a8)
